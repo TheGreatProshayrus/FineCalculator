@@ -22,6 +22,7 @@ namespace FineCalculator
     {
         string Start_Date;
         string End_Date;
+        double Money;
         public MainWindow()
         {
             InitializeComponent();
@@ -47,8 +48,14 @@ namespace FineCalculator
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-           double result = GetDays(Start_Date, End_Date);
-            MessageBox.Show(result.ToString());
+            // double result = GetDays(Start_Date, End_Date);
+            //  MessageBox.Show(result.ToString());
+            MessageBox.Show(Money.ToString());
+        }
+
+        private void Debt_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            //Money = Convert.ToDouble(Debt.Text.ToString());
         }
     }
 }

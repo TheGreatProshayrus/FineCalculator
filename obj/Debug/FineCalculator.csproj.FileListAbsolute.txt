@@ -14,3 +14,11 @@ C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.
 C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.exe
 C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.pdb
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\MaterialDesignColors.dll
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\ShowMeTheXAML.dll
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\App.baml
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.CopyComplete
