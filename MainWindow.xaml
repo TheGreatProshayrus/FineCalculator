@@ -5,8 +5,45 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FineCalculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="Fine Calculator" Height="450" Width="800" WindowStyle="SingleBorderWindow">
+    <Grid x:Name="MainRoot" Background="Purple">
+        <Grid x:Name="SecondRoot" Background="Yellow" Margin="25,25,25,25">
+            <Grid x:Name="TypeFine" Background="Green" Margin="10,10,330,110">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <RadioButton Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Розмір пені дорівнює ставці НБУ"/>
+                <RadioButton Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Розмір пені дорівнює ставці НБУ"/>
+                <RadioButton Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Розмір пені дорівнює ставці НБУ"/>
+                <RadioButton Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Розмір пені дорівнює ставці НБУ"/>
+                <RadioButton Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Розмір пені дорівнює ставці НБУ"/>
+            </Grid>
+            <Grid x:Name="Input" Background="Aqua" Margin="440,10,10,110">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBox Grid.Row="0" Margin="5,15,5,15" Text="Сума боргу"/>
+                <TextBox Grid.Row="1" Margin="5,15,5,15" Text="Сума боргу"/>
+                <TextBox Grid.Row="2" Margin="5,15,5,15" Text="Сума боргу"/>
+                <Label Grid.Row="3" Margin="5,15,5,15" Content="Сума боргу"/>
+            </Grid>
+            <Grid x:Name="Actions" Background="Crimson" Margin="10,280,10,10" >
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Margin="10,20,10,20" Content="Розрахувати розмір пені" ></Button>
+                <Button Grid.Column="1" Margin="10,20,10,20" Content="Згенерувати документ Word"></Button>
+            </Grid>
+        </Grid>
+
     </Grid>
 </Window>

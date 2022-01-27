@@ -1,0 +1,16 @@
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\FineCalculator.exe.config
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\FineCalculator.exe
+C:\Users\Proshayrus\source\repos\FineCalculator\bin\Debug\FineCalculator.pdb
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.AssemblyReference.cache
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\App.g.cs
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator_MarkupCompile.cache
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator_MarkupCompile.lref
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\MainWindow.baml
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.g.resources
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.Properties.Resources.resources
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.GenerateResource.cache
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.exe
+C:\Users\Proshayrus\source\repos\FineCalculator\obj\Debug\FineCalculator.pdb
